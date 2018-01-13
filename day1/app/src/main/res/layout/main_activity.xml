@@ -17,15 +17,18 @@
         <TextView
             android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/bangers"
             android:text="Nama "/>
         <TextView
             android:layout_width="10dp"
             android:layout_height="wrap_content"
             android:text=":"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ade Rifaldi"/>
+            android:fontFamily="@font/bangers"
+            android:text="Ade Rifaldi" />
 
     </LinearLayout>
         <LinearLayout
@@ -36,7 +39,8 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
-                android:text="Ttl" />
+                android:text="Ttl"
+                android:fontFamily="@font/bangers"/>
             <TextView
                 android:layout_width="10dp"
                 android:layout_height="wrap_content"
@@ -44,9 +48,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Jakarta, 13 September 1999"/>
+                android:text="Jakarta, 13 September 1999"
+                android:fontFamily="@font/bangers"/>
 
         </LinearLayout>
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -55,7 +61,8 @@
         <TextView
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Kelamin" />
+            android:text="Kelamin"
+            android:fontFamily="@font/bangers"/>
         <TextView
             android:layout_width="10dp"
             android:layout_height="wrap_content"
@@ -63,7 +70,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Pria"/>
+            android:text="Pria"
+            android:fontFamily="@font/bangers"/>
 
     </LinearLayout>
 
